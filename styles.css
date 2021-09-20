@@ -189,11 +189,12 @@ a:hover{
   margin-left: 0;
 }
 #fotter1{
-  margin-left: 80px;
+  margin-left: 6%;
 }
 #fotter2{
-margin-left: 1000px;
+margin-left: 68%;
 }
+
  @media only screen and (max-width:900px) {
  .container_1{
   margin-left: 15%;
