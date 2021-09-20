@@ -167,6 +167,9 @@ height:770px;
   padding-bottom: 8%;
   font-family: 'Cinzel', serif;
 }
+.contacts:hover{
+  color:black;
+}
 
 #button{
   color: white;
