@@ -263,8 +263,7 @@ margin-left: 68%;
 .container_2 {
   width: 100%;
   padding-left: 2%;
-  /* margin-left: 15%; */
-  margin-right: 20%;
+  margin-left: 0;
   padding-top: 1%;
   height: auto;
 }
