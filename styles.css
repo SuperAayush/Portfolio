@@ -1,3 +1,7 @@
+a:hover{
+  text-decoration:none;
+}
+
 #Resume{
   color: black;
   font-size:20px;
@@ -26,7 +30,8 @@ h3{
 .card{
   overflow: hidden;
   width: 300px;
-  height: 450px;
+  height: 300px;
+  margin-top: 100px;
 }
 .card:before{
   position: absolute;
@@ -175,11 +180,11 @@ a:hover{
   color: white;
   background-color: Black;
   width: 200px;
-  font
 }
+
 #button:hover{
   color:red;
-  background-color: Yellow;
+  background-color: yellow;
 }
 #coffee{
   width: 20%;
