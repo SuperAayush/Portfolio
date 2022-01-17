@@ -299,6 +299,11 @@ margin-left: 68%;
   width: 100%;
   margin-left: 0;
 }
+
+.container_e{
+  flex-direction: column;
+}
+
 .container_6 {
   width: 100%;
   margin-left: 0;
@@ -310,6 +315,13 @@ margin-left: 68%;
     width: 100%;
     margin-left: 0;
 }
+
+.container_7_1 {
+  width: 100%;
+  margin-left: 0;
+  padding-left: 2%;
+}
+
 .container_8 {
   width: 100%;
   margin-left: 0;
