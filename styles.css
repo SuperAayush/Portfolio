@@ -69,6 +69,11 @@ h3{
 .card:hover .card-text{
   top:80px;
 }
+
+.container_e{
+  display:flex;
+}
+
 .container_1{
 width: 50%;
 vertical-align: top;
@@ -121,6 +126,12 @@ height:770px;
   display: inline-grid;
   padding-left: 2%;
 }
+
+.container_7_1{
+  padding-top: 5%;
+  margin-left: 13%;
+}
+
 .container_8{
   width: 40%;
   padding-top: 5%;
